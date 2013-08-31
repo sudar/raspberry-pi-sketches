@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+'''
+Control an LED based on a button state.
+Refer to button-and-led.png for circuit
+
+Author: Sudar - http://hardwarefun.com
+License: BEERWARE ;)
+'''
 import RPi.GPIO as GPIO
 import time
 

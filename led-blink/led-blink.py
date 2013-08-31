@@ -1,5 +1,12 @@
 #!/usr/bin/env python
 
+'''
+Control a LED from Raspberry Pi
+Refer to led-blink.png for circuit
+
+Author: Sudar - http://hardwarefun.com
+License: BEERWARE ;)
+'''
 import RPi.GPIO as GPIO
 import time
 
