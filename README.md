@@ -11,6 +11,10 @@ Sketch List
 - `/button-input/button-input.py` - Read the state of a button
 - `/button-and-led/button-and-led.py` - Control an LED based on a button state
 
+Slides
+-------------
+
+The slides that I used for the talk is [available](http://hardwarefun.com/news/control-raspberry-pi-gpio-pins-from-python). You can also checkout my other presentations and slides from [my talks](http://sudarmuthu.com/my-talks) page.
 
 License
 -------
