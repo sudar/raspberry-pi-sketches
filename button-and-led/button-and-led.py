@@ -18,9 +18,9 @@ try:
     while True:
         if GPIO.input(11):
             print "Button is on"
-            GPIO.output(12, 1)
+            GPIO.output(12, GPIO.HIGH)
         else:
-            GPIO.output(12, 0)
+            GPIO.output(12, GPIO.LOW)
         time.sleep(0.1)
 
 finally:
